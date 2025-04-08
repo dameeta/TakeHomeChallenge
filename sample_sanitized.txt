@@ -1,0 +1,7 @@
+Patient Name: [REDACTED]
+Date of Birth: [REDACTED]
+Social Security Number: [REDACTED]
+Phone Number: [REDACTED]
+Email: [REDACTED]
+Address: [REDACTED]
+Medical Record Number: [REDACTED]
