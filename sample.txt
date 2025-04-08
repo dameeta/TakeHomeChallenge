@@ -1,0 +1,7 @@
+Patient Name: John Doe
+Date of Birth: 01/01/1980
+Social Security Number: 123-45-6789
+Phone Number: (123) 456-7890
+Email: johndoe@example.com
+Address: 123 Main St, New York, NY
+Medical Record Number: MRN-001122
